@@ -1,1 +1,3 @@
 # KEERTHI-FURNITURE-INDUSTRIES
+
+<h1>Welcome to the official site of KEERTHI FURNITURE INDUSTRIES</h1>
